@@ -2,6 +2,7 @@ package avion;
 
 /**
  * Classe contenant la logique pour vérifier si un avion peut décoller en fonction des données météo et des caractéristiques de l'avion.
+ * @author RANDRIANARISOA
  */
 public class VerificateurDecollage {
 
