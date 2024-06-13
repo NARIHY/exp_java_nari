@@ -1,0 +1,25 @@
+package experimentation;
+
+import javafx.application.Application;
+import javafx.stage.Stage;
+import ui.Menu;
+
+/**
+ * Classe principale pour lancer l'application.
+ */
+public class Main extends Application {
+
+    public static void main(String[] args) {
+        // Démarrer l'application JavaFX
+        launch(args);
+    }
+
+    @Override
+    public void start(Stage primaryStage) throws Exception {
+        // Créer une instance de Menu
+        Menu menu = new Menu();
+
+        // Appeler la méthode afficherMenu() de Menu
+        menu.afficherMenu(primaryStage);
+    }
+}
