@@ -2,6 +2,7 @@ package avion;
 
 /**
  * Classe représentant un avion avec ses caractéristiques de base.
+ * @author RANDRIANARISOA
  */
 public class Avion {
     private String modele;               // Modèle de l'avion
