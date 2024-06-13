@@ -2,6 +2,7 @@ package experimentation;
 
 /**
  * Classe représentant une personne avec ses caractéristiques principales.
+ * @author RANDRIANARISOA
  */
 public class Personne {
     // Attributs
