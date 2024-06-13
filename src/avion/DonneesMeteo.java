@@ -2,6 +2,7 @@ package avion;
 
 /**
  * Classe représentant les données météorologiques nécessaires à la vérification du décollage.
+ * @author RANDRIANARISOA
  */
 public class DonneesMeteo {
     private double vitesseVent;  // Vitesse du vent en km/h
