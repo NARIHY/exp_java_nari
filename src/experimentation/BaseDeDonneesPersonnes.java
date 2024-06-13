@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Classe représentant une base de données de personnes.
+ * @author RANDRIANARISOA
  */
 public class BaseDeDonneesPersonnes {
     private List<Personne> personnes;
